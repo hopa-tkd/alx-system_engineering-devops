@@ -1,0 +1,14 @@
+import time
+
+def play_star_wars():
+  """Plays the Star Wars IV episode in the terminal."""
+  print("Opening terminal...")
+  time.sleep(1)
+  print("Connecting to towel.blinkenlights.nl...")
+  time.sleep(1)
+  print("Starting the movie...")
+  time.sleep(1)
+  print("Enjoy!")
+
+if __name__ == "__main__":
+  play_star_wars()
