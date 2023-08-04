@@ -1,2 +1,2 @@
 #!/bin/bash
-python star_wars.py
+print("telnet towel.blinkenlights.nl")
